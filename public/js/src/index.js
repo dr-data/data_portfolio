@@ -379,8 +379,8 @@
         },
         {
             title: 'About',
-            href: '/about-spemer.html',
-            hName: 'about-spemer.html',
+            href: '/about-data.html',
+            hName: 'about-data.html',
             target: '_self'
         },
         {
@@ -532,7 +532,7 @@
 
 
 //
-// Code with Love by Hyouk Seo(Spemer)
+// Code with Love by Dr. Data Ng
 (function(){
     var codeBy, codeIconNode, topTextNode1, loveIconNode, topTextNode2;
 
@@ -543,7 +543,7 @@
     topTextNode1 = document.createTextNode(" with ");
     loveIconNode = document.createElement("i");
     loveIconNode.className = "fa fa-heart";
-    topTextNode2 = document.createTextNode(" by Hyouk Seo(Spemer)");
+    topTextNode2 = document.createTextNode(" by Dr. Data Ng");
 
     codeBy.appendChild(codeIconNode);
     codeBy.appendChild(topTextNode1);

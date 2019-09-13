@@ -1,14 +1,14 @@
 {
   "name": "data-ng",
   "version": "0.1.0",
-  "description": "Spemer",
+  "description": "data-ng",
   "main": "server.js",
-  "author": "Hyouk Seo",
+  "author": "data-ng",
   "private": false,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spemer/spemer_portfolio.git"
+    "url": "git+https://github.com/dr-data/data_portfolio.git"
   },
   "dependencies": {
     "browser-sync": "^2.26.0",
@@ -39,9 +39,9 @@
     "android >= 4",
     "bb >= 10"
   ],
-  "homepage": "https://spemer.com",
+  "homepage": "http://datang.life",
   "bugs": {
-    "url": "https://github.com/spemer/spemer_portfolio/issues"
+    "url": "https://github.com/dr-data/data_portfolio/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
