@@ -22,7 +22,7 @@
     headerLink = document.createElement('a');
     headerLink.href = '/';
     headerHeading = document.createElement('h1');
-    headerText = document.createTextNode('Hyouk Seo');
+    headerText = document.createTextNode('Dr. Data Ng');
     
     _headerLogo.appendChild(headerLink);
     headerLink.appendChild(headerHeading);
@@ -492,7 +492,7 @@
             iconClass : 'instagram'
         },
         LinkedIn: {
-            href : 'www.linkedin.com/in/hyouk-seo-0b6801122/',
+            href : 'www.linkedin.com/in/datackng/',
             iconID : 'liIcon',
             iconClass : 'linkedin'
         },
