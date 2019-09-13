@@ -13,6 +13,7 @@
     "dependencies": {
         "browser-sync": "^2.26.0",
         "firebase": "^5.5.3",
+        "gulp-gh-pages": "^0.5.4",
         "gulp-sass": "^4.0.1",
         "gulp-uglify": "^3.0.1",
         "npm-check": "^5.9.0",

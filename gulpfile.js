@@ -1,5 +1,6 @@
 "use strict";
 const gulp = require('gulp'),
+      deploy = require('gulp-gh-pages'),
       sass = require('gulp-sass'),
       watch = require('gulp-watch'),
 
@@ -12,6 +13,15 @@ const gulp = require('gulp'),
       cleanCSS = require('gulp-clean-css'),
       autoprefixer = require('gulp-autoprefixer'),
       browserSync = require('browser-sync').create();
+
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+    return gulp.src("./dist/**/*")
+      .pipe(deploy())
+  });
 
 
 /* ==============================
