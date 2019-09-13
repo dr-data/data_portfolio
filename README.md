@@ -1,6 +1,6 @@
 # Portfolio website 🌐
 
-> Hi, I'm web & mobile __UI/UX designer__ based in South Korea🇰🇷 I Built this website with __HTML5, CSS3 and JavaScript__. Hope you enjoy and Thanks for watching this project you all!
+> Hi, I'm web & mobile __UI/UX designer__ based in Kennedy Town, Hong Kong🇰🇷 I Built this website with __HTML5, CSS3 and JavaScript__. Hope you enjoy and Thanks for watching this project you all!
 
 ## Setup
 
@@ -22,9 +22,9 @@ Built with these __AWESOME stuffs__:
 
 ## Dr. Data Ng
 
-I am detail-oriented __Digital product designer__, graphic designer, web publisher with passion and also known as music producer(a.k.a Spemer). Based in Seoul, South Korea. Major in __Visual Design__, minor in __Computer Science__ in Incheon National University. Deeply interested in mobile UX/UI Design, web publishing and web design. Always enjoy making an effort to enhance ability of design trends, technologies and skills with active researches. Currently seeking for an __internship opportunity__ in 2018. __Let's design for people better!__ 😎
+I am detail-oriented __Digital product designer__, graphic designer, web publisher with passion and also known as music producer(a.k.a Spemer). Based in Kennedy Town, Hong Kong. Major in __Visual Design__, minor in __Computer Science__ in Incheon National University. Deeply interested in mobile UX/UI Design, web publishing and web design. Always enjoy making an effort to enhance ability of design trends, technologies and skills with active researches. Currently seeking for an __internship opportunity__ in 2018. __Let's design for people better!__ 😎
 
-Visit __[My Website](https://spemer.com)__ for more details!
+Visit __[My Website](http://datang.life)__ for more details!
 
 Design & Development - __Dr. Data Ng__ (Spemer)
 
