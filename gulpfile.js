@@ -68,7 +68,7 @@ gulp.task('sass:watch', function () {
 gulp.task('prefix-css', function () {
     return watch('./public/css/src/*.css', { ignoreInitial: false })
         .pipe(autoprefixer({
-            browsers: ['cover 99.5%'],
+            overrideBrowserslist: ['cover 99.5%'],
             cascade: false
         }))
         .pipe(gulp.dest('./public/css/tmp'));
